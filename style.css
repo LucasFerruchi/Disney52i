@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+}
+
+body{
+    display: flex;
+}
+
+header{
+    background-color: rgb(119, 60, 173);
+}
+
+nav ul{
+    list-style: none;
+    height: 100vh;
+    padding: 0 20px;
+    margin-top: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+ul li{
+    margin-top: 25px;
+    color: rgb(83, 144, 212);
+}
+
+main{
+    background-color: rgb(70, 76, 129);
+    width: 100%;
+}
+
+.portada{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.imgPortada{
+    width: 80%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .padre{
+    background-color: rgb(120, 112, 128);
+width: 120px;
+height: 120px;
+margin: 20px;
+display: flex;
+justify-content: space-between;
+flex-direction: column;
+}
+
+.hijo{
+    width: 20px;
+    height: 20px;
+    margin: 8px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+.padre .hijo:nth-child(2){
+    align-self: center;
+  
+}
+
+.padre .hijo:nth-child(3){
+    align-self: end;
+} */
+
